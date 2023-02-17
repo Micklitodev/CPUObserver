@@ -22,9 +22,6 @@ Please read each section to better understanding of the idea behind this project
 Enjoy and thank you!
 
 ## Credits
-____________________________________________
-
-APPLICATION - 
 
 Creator:
 
