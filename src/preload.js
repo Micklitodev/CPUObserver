@@ -8,4 +8,4 @@ contextBridge.exposeInMainWorld("versions", {
 
 contextBridge.exposeInMainWorld("renderStats", {
   getStats: () => ipcRenderer.invoke("get-stats"),
-});
+}); 

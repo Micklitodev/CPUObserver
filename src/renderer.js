@@ -7,4 +7,4 @@ setInterval(async () => {
   stat.innerText = `CPU usage: ${Math.floor(stats.cpu * 100)}%,
    Free memory: ${Math.floor(stats.mem)}%, 
    Total memory: ${Math.floor(stats.totalMem)} GB`;
-}, 1000);
+}, 1000); 
