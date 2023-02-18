@@ -14,6 +14,14 @@ Please read each section to better understanding of the idea behind this project
   local machines diagnostic Data with downloadable setup and that creates an app exe file
   shortcut a users selected path and to practice electron.js and further expand my skills as a deveoper. 
 
+## Download
+
+Instructions:
+
+- To Download package click on tags under releases of repo then
+  select the download option then choose the setup.exe file. 
+
+
 ## Usage
 
 - Upon downloading the file install application set file path for shortcut to desktop
